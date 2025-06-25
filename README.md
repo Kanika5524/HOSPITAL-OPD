@@ -76,7 +76,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ![image](https://github.com/user-attachments/assets/25a509db-94c3-422c-9b05-b51828a7b2b8)  
 
-![image](https://github.com/user-attachments/assets/3c28e87e-b120-4432-92c5-bb48e1f19693)
+
 
 
 
