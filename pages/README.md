@@ -24,7 +24,6 @@ This is a web application built with Next.js for managing Outpatient Department 
 ![image](https://github.com/user-attachments/assets/48a68b88-b24b-4c87-90cb-e6996ecf4c3a)  
 
 ![image](https://github.com/user-attachments/assets/2e8fd378-4402-4550-b240-8d2643474a8b)  
-
-![image](https://github.com/user-attachments/assets/c42b84a5-d4d1-4320-8cda-63ef587f0cba)  
+ 
 
 ![image](https://github.com/user-attachments/assets/5c6aba61-bbd7-4ec7-abfd-75dee0df5c60) 
